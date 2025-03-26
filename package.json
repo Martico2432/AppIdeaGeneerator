@@ -99,5 +99,7 @@
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.8"
-  }
+  },
+  "private": false,
+  "homepage": "https://martico2432.github.io/AppIdeaGeneerator/",
 }
